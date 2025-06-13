@@ -1,0 +1,2 @@
+# Amethyst
+Discord Theme
