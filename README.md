@@ -4,6 +4,8 @@ Amethyst is a minimalist dark theme for Discord, focused on simplicity and perfo
 
 This is my first edition of a Discord theme.
 
+![Theme]((https://github.com/Hixo-9/Amethyst/blob/main/image.jpg))
+
 ---
 
 ## Installation (BetterDiscord)
