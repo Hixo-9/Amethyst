@@ -10,16 +10,11 @@ This is my first edition of a Discord theme.
 
 This theme requires [BetterDiscord](https://betterdiscord.app/) to be installed.
 
-### 1. Install BetterDiscord
-
-If you don’t have it yet, download and install it from:  
-https://betterdiscord.app/
-
-### 2. Download the Theme
+### 1. Download the Theme
 
 Click the download link for [Amethyst.theme.css](https://github.com/Hixo-9/Amethyst/releases/tag/1.0/) and save it to your device.
 
-### 3. Move the Theme File
+### 2. Move the Theme File
 
 Place the file into the following directory:
 
