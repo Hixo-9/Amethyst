@@ -17,7 +17,7 @@ If you don’t have it yet, download and install it from:
 
 ### 2. Download the Theme
 
-Click the download link for `Amethyst.theme.css` and save it to your device.
+Click the download link for `https://github.com/Hixo-9/Amethyst/releases/tag/1.0` and save it to your device.
 
 ### 3. Move the Theme to BetterDiscord Folder
 
